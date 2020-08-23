@@ -699,7 +699,7 @@ i.fa.fa-quote-right, i.fa.fa-quote-left {
     letter-spacing: 1px;
     display: inline-block;
     border-radius: 35px;
-     float: right;
+    float: right;
 }
 .contact-right input[type="submit"]:hover {
     color: #222;
